@@ -4,7 +4,7 @@ Predicting which telecom customers will churn, comparing five scikit-learn class
 
 **GitHub repository:** https://github.com/abhijaain-cell/telco-customer-churn-classifier
 
-**Live app:** _link added after deployment_
+**Live app:** https://telco-customer-churn-classifier-abhi.streamlit.app/
 
 ## 1. Problem statement
 
