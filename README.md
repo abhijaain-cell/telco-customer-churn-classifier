@@ -2,7 +2,7 @@
 
 Predicting which telecom customers will churn with five machine learning models and a Streamlit app.
 
-**GitHub repository:** https://github.com/ashishjain2309/telco-customer-churn-classifier
+**GitHub repository:** https://github.com/abhijaain-cell/telco-customer-churn-classifier
 
 **Live app:** _link added after deployment_
 
@@ -34,7 +34,7 @@ Precision, Recall and F1 are calculated for the **Churn** class, the customers t
 
 ## c. GitHub repository link
 
-https://github.com/ashishjain2309/telco-customer-churn-classifier
+https://github.com/abhijaain-cell/telco-customer-churn-classifier
 
 Files in the repository:
 
